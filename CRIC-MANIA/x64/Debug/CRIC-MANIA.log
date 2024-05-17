@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\projects\c(175,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\c(405,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\projects\c(738,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CRIC-MANIA.vcxproj -> D:\projects\c#\project\CRIC-MANIA\x64\Debug\CRIC-MANIA.exe
