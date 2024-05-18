@@ -25,7 +25,7 @@
 ### Score Card During Play
  after toss winner takes the bat
 
-<img src ="images/palying.png" height=400>
+<img src ="images/play.png" height=400>
 
 
 ### Batter score Card
