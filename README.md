@@ -37,7 +37,7 @@
 ### Bowler scoreboard
  after an inning is finished the bowler performance is depicted 
 
-<img src ="images/palying.png" height=400>
+<img src ="images/bowling_card.png" height=400>
 
 
 ### Winner Card
